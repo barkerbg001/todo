@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-  <meta charset="UTF-8">
-  <title>React Todo List Application</title>
-</head>
-
 <body>
   <h1>React Todo List Application</h1>
 
@@ -22,11 +17,11 @@
   <ol>
     <li>Clone the repository:</li>
   </ol>
-  <code>git clone https://github.com/your-username/todo-list.git</code>
+  <code>git clone https://github.com/barkerbg001/todo.git</code>
   <ol start="2">
     <li>Navigate to the project directory:</li>
   </ol>
-  <code>cd todo-list</code>
+  <code>cd todo</code>
   <ol start="3">
     <li>Install the dependencies:</li>
   </ol>
@@ -75,9 +70,8 @@
   <h2>Contact</h2>
   <p>If you have any questions or need assistance with the project, you can reach out to the project maintainer:</p>
   <ul>
-    <li>Name: Your Name</li>
-    <li>Email: your-email@example.com</li>
-    <li>GitHub: <a href="https://github.com/your-username">github.com/your-username</a></li>
+    <li>Name: Barkerbg001</li>
+    <li>Website: <a href="https://Barkerbg001.com">Barkerbg001.com</a></li>
   </ul>
 </body>
 
