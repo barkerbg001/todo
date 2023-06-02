@@ -2,7 +2,7 @@
 <html>
 
 <body>
-  <h1>React Todo List Application</h1>
+  <h1>Barkerbg001 - React Todo List Application</h1>
 
   <h2>Features</h2>
   <ul>
